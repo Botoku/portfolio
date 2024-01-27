@@ -3,7 +3,7 @@ let topbar = document.querySelector('.topbar')
 
 let navigation = document.querySelector('.navigation')
 let main = document.querySelector('.main')
-let themeSwitch = document.querySelector('.themeSwitch')
+let themeSwitch = document.querySelector('.themeSwitchCont')
 let body = document.querySelector('body')
 toggle.addEventListener('click', ()=>{
     toggle.classList.toggle('active')
